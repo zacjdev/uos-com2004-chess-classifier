@@ -1,0 +1,33 @@
+# Chess assignment report
+
+(Replace the square-bracketed text with your own text. *Leave everything else unchanged.* Note, the reports are parsed to check word limits, etc. Changing the format may cause the parsing to fail.)
+
+## Feature Extraction (Max 200 Words)
+
+[Describe and justify the design of your feature extraction. Note, feature extraction includes all the steps that you have taken to produce the 10-dimensional feature vector starting from the initial image of the page.]
+
+## Classifier (Max 200 Words)
+
+[Describe and justify the design of your classifier and any associated classifier training stage.]
+
+## Full Board Classification (Max 200 Words)
+
+[Describe and justify any *additional* steps that you have taken to exploit the additional information available in full board classification mode.]
+
+## Performance
+
+My percentage correctness scores (to 1 decimal place) for the development data are as follows.
+
+Clean data:
+
+- Square mode: [Insert percentage here, e.g. 98.1% - remove brackets]
+- Board mode: [Insert percentage here, e.g. 98.0% - remove brackets]
+
+Noisy data:
+
+- Square mode: [Insert percentage here, e.g. 83.3% - remove brackets]
+- Board mode: [Insert percentage here, e.g. 58.1% - remove brackets]
+
+## Other information (Optional, Max 100 words)
+
+[Optional: highlight any significant aspects of your system that are NOT covered in the sections above]
